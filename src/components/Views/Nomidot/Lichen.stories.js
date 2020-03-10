@@ -7,7 +7,7 @@ import WithModal from '../../modal/WithModal';
 import { Identicon } from '../../Identicon';
 import { Input } from '../../Input';
 
-import { FundsControlsInContext as FundsTable } from '../../tables/FundsControls.stories';
+import { FundsControlsInContext as FundsTable } from '../../Tables/FundsControls.stories';
 import { ContentAndTabsLichen as MainMenu } from '../../MainMenu.stories';
 import { FormFrameNewMnemonic, FormFrameTransfer } from '../../FormFrame.stories';
 

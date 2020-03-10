@@ -5,7 +5,7 @@ import { FormFrame } from './FormFrame';
 import { Button } from './Button';
 import { IconFont } from './IconFont';
 import { NewMnemonic } from './Input.stories';
-import { TransactionControlsInContext } from './tables/TransactionControls.stories';
+import { TransactionControlsInContext } from './Tables/TransactionControls.stories';
 
 export default {
   title: 'Design System/forms/FormFrame',
