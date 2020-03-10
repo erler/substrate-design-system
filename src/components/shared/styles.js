@@ -42,8 +42,8 @@ export const color = {
   grey05: '#A6ACB3',
   grey06: '#777B80',
   grey07: '#53595C',
-  grey08: '#2E2F30',
-  grey09: '#3C4042',
+  grey08: '#3C4042',
+  grey09: '#2E2F30',
 
   border: 'rgba(0,0,0,.1)',
 
